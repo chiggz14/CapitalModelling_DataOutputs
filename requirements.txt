@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 xlwings
-win32com.client
+pywin32
 time
 openpyxl
 os
