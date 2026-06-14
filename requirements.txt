@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-time
 openpyxl
 os
 shutil
