@@ -1,8 +1,6 @@
 streamlit
 pandas
 numpy
-xlwings
-pywin32
 time
 openpyxl
 os
