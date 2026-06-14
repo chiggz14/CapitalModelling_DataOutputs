@@ -1,1 +1,10 @@
-streamlit>=1.26.0
+streamlit
+pandas
+numpy
+xlwings
+win32com.client
+time
+openpyxl
+os
+shutil
+pythoncom
