@@ -1,9 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import xlwings as xw
-import win32com.client as win32
-import time
 from openpyxl import load_workbook
 import os
 import shutil
@@ -43,11 +40,6 @@ with st.expander("Variables"):
         This section contains the list of variables that are manually stored in the Python script 
         """
     )
-
-    st.markdown(f"""
-    **Output FilePath:** `{base_path}`  
-    **Template FilePath:** `{template_path}`
-    """)
 
 
 
