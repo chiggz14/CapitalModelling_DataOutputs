@@ -4,7 +4,6 @@ import numpy as np
 from openpyxl import load_workbook
 import os
 import shutil
-import pythoncom
 import pyodbc
 
 
