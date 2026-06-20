@@ -3,5 +3,4 @@ pandas
 numpy
 openpyxl
 pyodbc
-os
 shutil
